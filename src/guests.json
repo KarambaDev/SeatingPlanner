@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Александр",
+    "last_name": "Гусев",
+    "table": 2,
+    "seat": 1,
+    "comment1": "",
+    "comment2": ""
+  },
+  {
+    "first_name": "Karamba",
+    "last_name": "Dev",
+    "table": "26a",
+    "seat": 2,
+    "comment1": "",
+    "comment2": ""
+  }
+]
